@@ -1,0 +1,30 @@
+{
+  "name": "Favi",
+  "version": "1.0.0",
+  "description": "Favi",
+  "main": "favi.js",
+  "scripts": {
+    "start": "node favi.js"
+  },
+  "author": "favi",
+  "license": "ISC",
+  "dependencies": {
+    "best-tools": "^1.0.8",
+    "discord.js": "^12.5.3",
+    "efdb": "^1.1.9",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "nukleon": "^0.0.2",
+    "old-wio.db": "^4.0.10",
+    "wercent-favi.db": "^1.0.0",
+    "yaml": "^1.10.0",
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0",
+    "discord-slash-command": "^1.0.2",
+    "discord-slash-commands": "^1.2.1",
+    "plasma-db": "^1.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
