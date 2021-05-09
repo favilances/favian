@@ -18,7 +18,7 @@ const db = require('old-wio.db')
 const favi = new Discord.Client()
 client.db = db;
 client.ayarlar = {
-   token: "NzkyNzczNTg1Mzg3MjU3OTE3.X-il7w.lSTgV4kDH5y6FINOG0Wxq-it-5w",
+   token: "TOKEN",
     prefix: "-",
     sahip: ["356106336146292736"],
     embedRenk: "",
